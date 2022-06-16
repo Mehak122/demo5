@@ -1,3 +1,5 @@
+//This is CRUD in Mongoose and Node wwith query..
+
 const express = require('express');
 const Student_table=require("./mens");     //
 //const router = require(" ../Routers./student");
